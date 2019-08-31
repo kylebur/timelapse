@@ -1,0 +1,5 @@
+#!/bin/bash
+
+for i in 1 2 3 4; do
+	echo "I wish I had uploaded this project to github when I did it. If I did, I would still have the code"
+done
